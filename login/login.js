@@ -9,7 +9,7 @@ function login() {
     }
     if (username === storedUsername && password === storedPassword) {
         alert("Login Successful")
-        window.location.href = "../port.html"
+        window.location.href = "../index.html"
     } else {
         alert("Invalid Username or Password")
     }

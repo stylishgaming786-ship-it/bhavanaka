@@ -24,6 +24,6 @@ localStorage.setItem("password",password)
 
 alert("Signup Successful")
 
-window.location.href="../port.html"
+window.location.href="../index.html"
 
 }

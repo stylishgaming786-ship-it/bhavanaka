@@ -1,0 +1,7 @@
+Placeholder for images directory.
+
+To deploy successfully, please add:
+- bhav pic.jpeg (your profile picture)
+- my resume.pdf (your resume file)
+
+Upload these files to the images folder before deploying.
